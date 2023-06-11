@@ -9,4 +9,4 @@ altura = float(input('Informe a altura da parede: '))
 
 litros = área / 2
 
-print(f'Para uma área de {área:.1f} m2, você irá precisar de {litros:.1f} litros de tinta')
+print(f'Para uma área de {área:.1f} m², você irá precisar de {litros:.1f} litros de tinta')
